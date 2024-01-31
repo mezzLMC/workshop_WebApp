@@ -1,5 +1,9 @@
 # Front-end? back-end? API? Introduction au webApp
 
+Live Server (VSCode):
+Ctrl + P:
+```ext install ritwickdey.LiveServer```
+
 ## Exercice 1: créer votre première TodoList !
 
 Completez le code javascript pour pouvoir ajouter/supprimer de nouvelle task à la liste
